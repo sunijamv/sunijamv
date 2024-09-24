@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sunija
-- 👀 I’m interested in Data Science with a special focus on Geospatial Data Analytics/Urban Data Analytics 
-- 🌱 I’m currently learning Python
+👋 Hi, I’m Sunija!
+👀 I’m passionate about Data Science, with a focus on Geospatial Data Analytics and Urban Data Analytics.
+🌱 I’m currently enhancing my skills in Python and exploring its applications in data-driven insights for cities and geographic data.
 - 💞️ I’m looking to collaborate on GIS Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
